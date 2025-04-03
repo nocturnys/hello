@@ -1,0 +1,5 @@
+{
+  "buildCommand": "./custom-build-script.sh",
+  "outputDirectory": "static",
+  "framework": null
+}
